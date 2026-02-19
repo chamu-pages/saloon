@@ -1,0 +1,37 @@
+# Lumina Luxury Salon & Beauty Clinic
+
+> **Developer Context:** This website is a high-performance static demo created by Chamu Pages (Static Web Specialist). The business entity, staff, and contact details described below are fictional and serve as placeholders to demonstrate conversion-focused web architecture.
+
+## About the Business
+Lumina is a luxury salon and beauty clinic located in the Golden Triangle of Beverly Hills, California. We specialize in master artistry, couture hair design, and elite skin treatments, providing an elegant, high-end experience for our clientele.
+
+## Contact Information
+* **Address:** 468 N Rodeo Dr, Beverly Hills, CA 90210
+* **Phone:** +1 (310) 555-0199
+* **Email:** concierge@bel-air-digital.com
+* **Appointments:** Consultations and bookings are handled strictly through the website's secure intake form.
+
+## Core Services & Pricing
+
+### Hair Design
+* Couture Cut & Style: $125+
+* Master Color & Balayage: $350+
+* Keratin Silk Treatment: $450+
+* Couture Extensions: $800+
+
+### Skin & Beauty
+* 24K Gold Signature Facial: $250
+* Diamond Microdermabrasion: $150
+* Luxury Spa Manicure: $95
+* Full Body Silhouette Wax: $150
+
+## Featured Artists
+* **Victoria Vance (Master Stylist):** Vidal Sassoon trained expert specializing in precision cuts.
+* **Julian Rossi (Creative Director):** Lead stylist with experience at Milan and Paris Fashion Weeks.
+* **Elena St. James (Bridal Artistry Lead):** Celebrity red carpet expert focusing on high-profile event styling.
+
+## Technical Architecture (Agency Information)
+* **Developed By:** Chamu Pages
+* **Service Offered:** High-performance static web development targeting 100/100 Lighthouse scores.
+* **Technology Stack:** Semantic HTML5, Tailwind CSS, Alpine.js, Zero-Build Architecture.
+* **Hosting:** Edge-deployed via Cloudflare Pages.
