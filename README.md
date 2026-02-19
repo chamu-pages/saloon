@@ -16,8 +16,8 @@ This is a "Zero-Build" Static Website. It does not require a complex build proce
 
 ### Core Stack
 * **Structure:** Semantic HTML5
-* **Styling:** Tailwind CSS v3 (via CDN)
-* **Interactivity:** Alpine.js v3 (via CDN)
+* **Styling:** Tailwind CSS v3
+* **Interactivity:** Alpine.js v3
 * **SEO/Metadata:** JSON-LD Schema, Open Graph (OG), and Twitter Cards
 * **Local Files:** robots.txt, sitemap.xml, llms.txt
 
@@ -29,8 +29,6 @@ This is a "Zero-Build" Static Website. It does not require a complex build proce
 * **Mobile-First Responsive Design:** Flawless scaling from mobile devices to ultrawide desktop monitors.
 
 ## Local Development
-
-Because this is a zero-build project using CDNs for styling and interactivity, no heavy package installations are required.
 
 ```bash
 # Clone the repository
